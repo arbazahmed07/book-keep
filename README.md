@@ -1,11 +1,11 @@
 ````markdown
-# 📚 BookKeep – MERN Application
+📚 BookKeep – MERN Application
 
 A full-stack application built with a **React + Vite** frontend and **Node.js/Express** backend, using **MongoDB** for data storage and **Clerk** for authentication.
 
 ---
 
-## ✨ Features
+✨ Features
 
 - 🔐 User authentication with **Clerk** (Google Sign-In)
 - 👥 Role-based access: **Admin / Guest**
@@ -15,9 +15,9 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
 
 ---
 
-## 🚀 Setup Instructions
+ 🚀 Setup Instructions
 
-### 🧰 Prerequisites
+ 🧰 Prerequisites
 
 - Node.js (v16 or higher)
 - MongoDB (local or Atlas)
@@ -25,7 +25,7 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
 
 ---
 
-### 🖥️ Client Setup (React + Vite)
+🖥️ Client Setup (React + Vite)
 
 1. Navigate to the `client` directory:
 
@@ -54,7 +54,7 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
 
 ---
 
-### 🔧 Server Setup (Node.js + Express)
+ 🔧 Server Setup (Node.js + Express)
 
 1. Navigate to the `server` directory:
 
@@ -84,9 +84,9 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
 
 ---
 
-## 🗂️ Application Structure
+ 🗂️ Application Structure
 
-### 🖼️ Client
+🖼️ Client
 
 * Built with **React + Vite**
 * Integrated **Clerk** authentication
@@ -96,7 +96,7 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
   * **Admin**: Full CRUD access to form data
   * **Guest**: Read-only access
 
-### 🛠️ Server
+ 🛠️ Server
 
 * RESTful API built with **Express.js**
 * **MongoDB + Mongoose** for data modeling
@@ -110,10 +110,8 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
 
 ---
 
-## 📄 License
+ 📄 License
 
 This project is licensed under the **MIT License**.
-
-```
 
 ```
