@@ -2,9 +2,6 @@
 📚 BookKeep – MERN Application
 
 A full-stack application built with a **React + Vite** frontend and **Node.js/Express** backend, using **MongoDB** for data storage and **Clerk** for authentication.
-
----
-
 ✨ Features
 
 - 🔐 User authentication with **Clerk** (Google Sign-In)
@@ -13,7 +10,6 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
 - 📱 Responsive UI with **Tailwind CSS**
 - 🗃️ Persistent storage using **MongoDB**
 
----
 
  🚀 Setup Instructions
 
@@ -23,7 +19,7 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
 - MongoDB (local or Atlas)
 - Clerk account with configured application
 
----
+
 
 🖥️ Client Setup (React + Vite)
 
