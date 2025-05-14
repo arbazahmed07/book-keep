@@ -113,5 +113,3 @@ A full-stack application built with a **React + Vite** frontend and **Node.js/Ex
  📄 License
 
 This project is licensed under the **MIT License**.
-
-```
